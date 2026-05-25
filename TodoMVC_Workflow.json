@@ -1,0 +1,18 @@
+{
+  "name": "TodoMVC_Assignment_Workflow",
+  "description": "Crypto automation workflow using CoinGecko API",
+  "nodes": [
+    {
+      "name": "Schedule Trigger"
+    },
+    {
+      "name": "HTTP Request"
+    },
+    {
+      "name": "IF Node"
+    },
+    {
+      "name": "Discord Webhook"
+    }
+  ]
+}
